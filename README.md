@@ -1,4 +1,4 @@
-# NonUI Simulator App
+# NonUI Simulator App ⚙️
 
 ![My Image](IMG_3992.jpg)
 
