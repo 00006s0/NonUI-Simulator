@@ -7,7 +7,7 @@ NonUI Simulator App is a simple simulator iOS app built with Storyboard, compati
 ## ✨ Features
 
 - 🛠️ Simulate Apple´s Secret Internal Operating System
-- 📱 Compatible with iOS 14-17
+- 📱 Compatible with iOS 14-18
 - 🔧 Easy to extend and modify
 
 ## 📥 Installation
