@@ -1,6 +1,6 @@
 # NonUI Simulator App ⚙️
 
-![My Image](IMG_3992.jpg)
+![My Image](banner.jpg)
 
 NonUI Simulator App is a simple simulator iOS app built with Storyboard, compatible with iOS 14-17. The app provides a straightforward simulation environment for non-UI-based applications.
 
